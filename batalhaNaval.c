@@ -1,4 +1,4 @@
-##include <stdio.h>
+#include <stdio.h>
 
 #define TAMANHO_TABULEIRO 10
 #define TAMANHO_NAVIO 3
